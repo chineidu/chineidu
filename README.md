@@ -1,10 +1,8 @@
-### Hi there 👋
+### Hello there 😀
+I'm a **Data Scientist/Ml Engineer**
 
-<!--
-**chineidu/chineidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning Natural Language Processing
+- 🌱 I’m currently learning Natural Language Processing.
+- 🤝 I’m available for freelancing.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/chineduezeofor)
--->
+
