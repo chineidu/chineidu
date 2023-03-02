@@ -1,5 +1,5 @@
 ### Hello there 😀
-I'm a **Data Scientist | Ml Engineer**
+I'm a **Data Scientist | ML Engineer**
 
 
 - 🌱 I’m currently learning Natural Language Processing.
