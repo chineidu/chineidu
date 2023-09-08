@@ -1,5 +1,5 @@
 ### Hello there 😀
-I'm an **Data Scientist | ML Engineer**
+I'm a **Data Scientist | ML Engineer**
 
 
 ### Languages
