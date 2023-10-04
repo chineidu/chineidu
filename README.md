@@ -6,7 +6,7 @@ I'm a **Data Scientist | ML Engineer**
 `Python` | `SQL` | `Go` | `Spark` | `Bash`
 
 ### ML/DL
-`Pandas` | `NumPy` | `Scikit-Learn` | `PyTorch` | `HuggingFace Transformers` | `MLFlow` | `Matplotlib`
+`Pandas` | `NumPy` | `Scikit-Learn` | `PyTorch` | `HuggingFace Transformers` | `Matplotlib`
 
 
 ### Technologies & Frameworks
