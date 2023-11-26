@@ -1,5 +1,5 @@
 ### Hello there 😀
-I'm a **Data Scientist | ML Engineer**
+I'm a **Data Scientist | AI Developer**
 
 
 ### Languages
@@ -10,7 +10,7 @@ I'm a **Data Scientist | ML Engineer**
 
 
 ### Technologies & Frameworks
-`Docker` | `AWS` | `Kubernetes`| `FastAPI` | `Flask` | `Postgres`
+`Docker` | `AWS` | `Kubernetes`| `FastAPI` | `Flask` | `Postgres` | `Pinecone`
 
-- 🌱 I’m currently learning Natural Language Processing.
+- 🌱 I build AI tools and applications.
 - 📫 You can reach me 👉🏽: [LinkedIn](https://www.linkedin.com/in/chineduezeofor)
