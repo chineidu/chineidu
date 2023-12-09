@@ -10,7 +10,7 @@ I'm a **Data Scientist | AI Developer**
 
 
 ### Technologies & Frameworks
-`Docker` | `AWS` | `Kubernetes`| `FastAPI` | `Flask` | `Postgres` | `Pinecone`
+`Docker` | `AWS` | `Kubernetes`| `FastAPI` | `Flask` | `Postgres` | `Vector DBs`
 
 - 🌱 I build AI tools and applications.
 - 📫 You can reach me 👉🏽: [LinkedIn](https://www.linkedin.com/in/chineduezeofor)
