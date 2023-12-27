@@ -1,5 +1,5 @@
 ### Hello there 😀
-I'm a **Data Scientist | AI Developer**
+I'm a **Data Scientist | ML Engineer**
 
 
 ### Languages
