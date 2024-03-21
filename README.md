@@ -10,7 +10,7 @@ I'm an **ML Engineer | Data Scientist**
 
 
 ### Technologies & Frameworks
-`Docker` | `AWS` | `Kubernetes`| `FastAPI` | `Postgres` | `Vector DBs` | `Terraform`
+`Docker` | `AWS` | `Kubernetes`| `CICD` | `FastAPI` | `Postgres` | `Vector DBs` | `Terraform`
 
 - 🌱 I build AI tools and applications.
 - 📫 You can reach me 👉🏽: [LinkedIn](https://www.linkedin.com/in/chineduezeofor)
